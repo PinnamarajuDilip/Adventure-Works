@@ -3,6 +3,7 @@ public class Practice_for_Git_vscode {
         System.debug('Hello, Salesforce!');
         System.debug('This is practice code for salesforce, vscode and git');
         System.debug('Before Staging');
+        System.debug('Testing Git Tracking');
 }
 
 }
