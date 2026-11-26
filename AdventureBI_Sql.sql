@@ -196,3 +196,5 @@ create table months(MonthName varchar(20));
 select * from months;
 insert into months(MonthName) values('January'),('February'),('March'),('April'),('May'),('June'),('July'),('August'),('September'),('October'),
 ('November'),('December');
+
+-- This is git commit test
